@@ -13,5 +13,5 @@ if(a>b)
 }
 else
 {
-    Console.WriteLine("Второе чисдо больше = " + b);
+    Console.WriteLine("Второе число больше = " + b);
 } 
